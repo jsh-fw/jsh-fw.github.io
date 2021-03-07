@@ -2,11 +2,9 @@
 main:
   - title: "Home"
     url: "/"
-  - title: "NLP"
-    url: "/nlp/"
+  - title: "Posts"
+    url: "/posts/"
   - title: "About"
     url: "/about/"
-  - title: "test"
-    url: "/test/"
   # - title: "Sitemap"
   #   url: /sitemap/
