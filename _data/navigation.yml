@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "Home"
-    url: https://jsh-fw.github.io/
+    url: "/"
   - title: "NLP"
-    url: https://jsh-fw.github.io/nlp/
+    url: "/nlp/"
   - title: "About"
-    url: https://jsh-fw.github.io/about/
+    url: "/about/"
   - title: "test"
-    url: https://jsh-fw.github.io/test
+    url: "/test/"
   # - title: "Sitemap"
   #   url: /sitemap/
